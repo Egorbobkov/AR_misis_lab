@@ -44,3 +44,15 @@
 - уменьшить различия между уровнями съёмки;
 - при необходимости адаптировать параметры COLMAP под конкретную сцену.
 ### Исходный объект:
+![Sparse reconstruction](photo/photo_1.jpeg)
+
+### Полученный результат:
+![Sparse reconstruction](photo/photo_2.png)
+
+
+![Sparse reconstruction](photo/photo_3.png)
+
+![Sparse reconstruction](photo/photo_4.png)
+
+
+
